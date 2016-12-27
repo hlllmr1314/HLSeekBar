@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HLSeekBar">
+        <attr name="bg_drawable1" format="reference" />
+        <attr name="pre_drawable1" format="reference" />
+        <attr name="bg_drawable2" format="reference" />
+        <attr name="pre_drawable2" format="reference" />
+        <attr name="bg_drawable3" format="reference" />
+        <attr name="pre_drawable3" format="reference" />
+        <attr name="bg_drawable4" format="reference" />
+        <attr name="pre_drawable4" format="reference" />
+        <attr name="bg_drawable5" format="reference" />
+        <attr name="pre_drawable5" format="reference" />
+        <attr name="bg_drawable6" format="reference" />
+        <attr name="pre_drawable6" format="reference" />
+        <attr name="bg_drawable7" format="reference" />
+        <attr name="pre_drawable7" format="reference" />
+        <attr name="horizontal_space" format="dimension" />
+        <attr name="numStars" format="integer" />
+    </declare-styleable>
+
+</resources>
