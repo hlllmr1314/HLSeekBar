@@ -1,7 +1,7 @@
 # HLSeekBar
 
 ## 效果图
-![Demo picture](https://raw.githubusercontent.com/hlllmr1314/HLSeekBar/master/img/layout-2016-12-27-110511.png)
+![Demo picture](https://github.com/hlllmr1314/HLSeekBar/blob/master/img/layout-2016-12-27-110511.png)
 
 ## License
 ```
